@@ -1,2 +1,2 @@
 # SoftRam
-A new programming langue 
+A new programming language!
